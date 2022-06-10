@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "Perun",
+            "body": "Ime „Perun“ izvodi je praslovenska reč,[7] a izvodi se od indoevropskog korena „per“ odnosno „perk“ koji ima značenje „udariti“ (vrlo snažno, silovito udariti), „rasprsnuti“ i sufiksa „un“ koji označava onoga koji izvršava radnju.[8] Bog Gromovnik pojavljuje se i kod Litvanaca pod imenom Perkunas.[9] Skoro isti oblik imena boga groma kod Slovena i Litvanaca možda ukazuje na poreklo boga Peruna u vreme religijskog, a možda i jezičkog, zajedništva Slovena i Litvanaca. Postojanje boga groma kao vrhovnog boga u vreme mnogobožačkih verovanja upadljivo je i kod starih Grka i Rimljana. Isto mesto, u spisku bogova, Peruna, Zevsa i Jupitera može ukazivati na zajedničke religijske osnove Indoevropljana, to jest da su u vreme zajedništva imali boga groma kao važno, ili vrhovno božanstvo.",
+            "author": "Aries",
+            "id": 1
+        },
+        {
+            "title": "Asgard",
+            "body": "Asgard, Old Norse Ásgardr, in Norse mythology, the dwelling place of the gods, comparable to the Greek Mount Olympus. Legend divided Asgard into 12 or more realms, including Valhalla, the home of Odin and the abode of heroes slain in earthly battle; Thrudheim, the realm of Thor; and Breidablik, the home of Balder.",
+            "author": "Thor",
+            "id": 2
+        }
+    ]
+}
